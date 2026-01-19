@@ -1,0 +1,8 @@
+file_format: "1"
+id: eli_board
+name: eli_board
+type: shield
+url: https://github.com/Eli-Reece/zmk-keyboard-eli
+requires: [pro_micro]
+features:
+  - keys
